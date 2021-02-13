@@ -1,0 +1,1 @@
+This is the repository containing code relating to the core Daft scraper
